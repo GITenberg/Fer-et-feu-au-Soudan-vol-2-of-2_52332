@@ -1,0 +1,41 @@
+_repo: Fer-et-feu-au-Soudan-vol-2-of-2_52332
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bettex, Gustave
+    gutenberg_agent_id: '46797'
+    url: http://www.gutenberg.org/2009/agents/46797
+creator:
+  author:
+    agent_name: Slatin, Rudolf Carl, Freiherr von
+    aliases:
+    - Slatin, Rudolf Carl von
+    - Von Slatin, Rudolf Carl, Freiherr
+    - Slatin Pascha, Rudolf Carl von
+    - Slatin-Pascha, Rudolf Carl, Freiherr von
+    birthdate: 1857
+    deathdate: 1932
+    gutenberg_agent_id: '40942'
+    url: http://www.gutenberg.org/2009/agents/40942
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Carl_von_Slatin
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2016-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52332'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Mahdism'
+- !lcsh 'Slatin, Rudolf Carl, Freiherr von, 1857-1932'
+- !lcsh 'Soldiers -- Sudan -- Biography'
+- !lcsh 'Sudan -- History -- 1881-1899'
+- !lcsh 'Colonial administrators -- Sudan -- Biography'
+- !lcsh 'Austrians -- Sudan -- Biography'
+- GITenberg
+title: Fer et feu au Soudan, vol. 2 of 2
+url: http://www.gutenberg.org/ebooks/52332
